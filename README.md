@@ -1,0 +1,1 @@
+# Hackintosh_QTJ1-UHD630-Z370-OpenCore
